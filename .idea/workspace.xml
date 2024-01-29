@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b4d56a-d36c-46a0-9c04-bf705f8ad2df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter3/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter3/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter3/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter3/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter3/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter3/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter4/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minseo_diary/Chapter4/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +26,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/qlqlx/OneDrive/바탕 화면/깃허브 파일/SPOS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/qlqlx/OneDrive/바탕 화면/깃허브 파일/minseoNetwork"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
